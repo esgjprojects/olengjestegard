@@ -1,3 +1,9 @@
 body {
     font-family: "Domine", serif;
+    background-color: rgb(238 238 239/1);
+}
+
+a {
+    color: var(--bs-primary) !important;
+    text-decoration: underline;
 }
